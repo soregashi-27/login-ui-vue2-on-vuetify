@@ -14,6 +14,7 @@
                       >
                         Sign in to Diprella
                       </h1>
+
                       <div class="text-center" mt-4>
                         <v-btn class="mx-2" fab color="black" outlined>
                           <v-icon>fab fa-facebook-f</v-icon>
@@ -25,9 +26,15 @@
                           <v-icon>fab fa-linkedin-in</v-icon>
                         </v-btn>
                       </div>
+
+                      <h4 class="text-center mlt-4">
+                        Ensure your email for registration
+                      </h4>
+
+                      <v-form></v-form>
                     </v-card-text>
                   </v-col>
-                  <v-col cols="12" md="4"> </v-col>
+                  <v-col cols="12" md="4"></v-col>
                 </v-row>
               </v-window>
             </v-card>
