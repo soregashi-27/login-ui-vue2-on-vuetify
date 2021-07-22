@@ -4,6 +4,8 @@ import Home from '../views/Home.vue';
 
 Vue.use(VueRouter);
 
+// ファイル名注意！
+
 const routes = [
   {
     path: '/',
