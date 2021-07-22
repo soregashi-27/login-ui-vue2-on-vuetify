@@ -15,8 +15,8 @@
                         Sign in to Diprella
                       </h1>
                       <div class="text-center" mt-4>
-                        <v-btn class="mx-2" fab color="black">
-                          <v-icon>fab fa-facebook</v-icon>
+                        <v-btn class="mx-2" fab color="black" outlined>
+                          <v-icon>fab fa-facebook-f</v-icon>
                         </v-btn>
                       </div>
                     </v-card-text>
