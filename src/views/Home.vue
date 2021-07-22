@@ -18,6 +18,12 @@
                         <v-btn class="mx-2" fab color="black" outlined>
                           <v-icon>fab fa-facebook-f</v-icon>
                         </v-btn>
+                        <v-btn class="mx-2" fab color="black" outlined>
+                          <v-icon>fab fa-google-plus-g</v-icon>
+                        </v-btn>
+                        <v-btn class="mx-2" fab color="black" outlined>
+                          <v-icon>fab fa-linkedin-in</v-icon>
+                        </v-btn>
                       </div>
                     </v-card-text>
                   </v-col>
