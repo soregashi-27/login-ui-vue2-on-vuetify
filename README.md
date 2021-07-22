@@ -1,4 +1,6 @@
 # login-ui-vue2-on-vuetify
+This is one of the variations of UI design to create a login screen.
+
 
 ## Project setup
 ```
